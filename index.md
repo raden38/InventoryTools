@@ -1,5 +1,5 @@
 [![Donate](https://www.freepngimg.com/thumb/paypal_donate_button/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXBGXD3XPFN96&currency_code=EUR&source=url)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/raden38/InventoryTools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
