@@ -1,8 +1,4 @@
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
+[![Donate](https://www.freepngimg.com/thumb/paypal_donate_button/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXBGXD3XPFN96&currency_code=EUR&source=url)
 
 ## Welcome to GitHub Pages
 
