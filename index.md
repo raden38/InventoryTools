@@ -4,6 +4,20 @@
 
 [![Donate](http://image.noelshack.com/fichiers/2018/47/5/1542954616-youtube.png)](https://www.youtube.com/watch?v=fbU27ITv5k8)
 
+# POE Inventory tools 
+
+- Move items from your inventory to your stash tabs automaticaly by pressing one button! (For exemple : By pressing F2 key, all your rings will be transfered to your "rings" tab and all your currency will be transfered to your "currency" tab ...) 
+
+- Fast price check over an item in game! (By clicking one button, an overlay with the item price will appear over the mouse, including stacked items total price. Realy fast, less than second to occur)
+
+- Display chaos per map statistics in game! (This feature analyze your lasts inventory items moved into your stash, it's a good way to compare your returns)
+
+
+## Guide
+
+![Logo]([url=https://i.ibb.co/cTH1ZRF/tuto-img-options.png)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/raden38/InventoryTools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
