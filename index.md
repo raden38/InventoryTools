@@ -4,6 +4,7 @@
 - Move items from your inventory to your stash tabs automaticaly!
 - Fast price check over an item in game!
 - Display chaos per map statistics in game!
+
 (No memory interaction, only clipboard items informations reading and keyboard keys simulation are used. I use this tool from 2 years.)
 
 Not just a quality of life tools, but realy a huge time saver !
