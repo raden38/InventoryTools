@@ -1,8 +1,10 @@
 ## POE Inventory tools 
 
+
 - **Move items from your inventory to your stash tabs automaticaly by pressing one button!**
 - **Fast price check over an item in game!**
 - **Display chaos per map statistics in game!**
+
 
 Not just a quality of life tools, but realy a huge time saver !
 
