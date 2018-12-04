@@ -9,7 +9,9 @@
 Not just a quality of life tools, but realy a huge time saver !
 
 Maybe I will continue to improve Inventory tools and accuracy of each features, not warranty and will depend on my motivation and comunity reactions.
+
 [![Donate](https://i.ibb.co/bs71Gjf/youtube.png)](https://youtu.be/qBIE8TQrsmM=url)
+
 [![Donate](https://www.freepngimg.com/thumb/paypal_donate_button/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXBGXD3XPFN96&currency_code=EUR&source=url)
 
 
