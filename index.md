@@ -3,16 +3,10 @@
 _Not just a quality of life tools, but realy a huge time saver !_
 
 - **Move items from your inventory to your stash tabs automaticaly by pressing one button!**
-
-(For exemple : By pressing F2 key, all your rings will be transfered to your "rings" tab and all your currency will be transfered to your "currency" tab ...) 
-
 - **Fast price check over an item in game!**
-
-(By clicking one button, an overlay with the item price will appear over the mouse, including stacked items total price. Realy fast, less than second to occur)
-
 - **Display chaos per map statistics in game!**
 
-(This feature analyze your lasts inventory items moved into your stash, it's a good way to compare your returns)
+
 
 _Maybe I will continue to improve Inventory tools and accuracy of each features, not warranty and will depend on my motivation and comunity reactions._
 
