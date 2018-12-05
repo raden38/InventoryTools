@@ -12,7 +12,7 @@ Not just a quality of life tools, but realy a huge time saver !
 Download link :
 [INVENTORY_TOOLS_V1.13.rar](https://github.com/raden38/InventoryTools/raw/master/INVENTORY_TOOLS_V1.13.rar)
 
-[![Youtube](https://i.ibb.co/bs71Gjf/youtube.png)](https://youtu.be/qBIE8TQrsmM=url)
+[![Youtube](https://i.ibb.co/chdT3fF/youtube.png)](https://youtu.be/qBIE8TQrsmM=url)
 
 Maybe I will continue to improve Inventory tools and accuracy of each features, not warranty and will depend on my motivation and comunity reactions.
 
